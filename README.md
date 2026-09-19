@@ -2,15 +2,17 @@
 
 # Napat Pamornsut
 
-### Web Developer · Software Tester
+### Web Developer / Software Tester
 
-**Building reliable software with a focus on engineering quality, testing, and practical solutions.**
+**Building reliable web applications with a focus on quality and testing.**  
+Turning requirements into practical, testable solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-napatdev.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://napatdev.com)
-[![Projects](https://img.shields.io/badge/Selected-Projects-111111?style=for-the-badge&logo=github&logoColor=white)](https://napatdev.com/projects)
-[![Developer Notes](https://img.shields.io/badge/Developer-Notes-111111?style=for-the-badge&logo=markdown&logoColor=white)](https://napatdev.com/notes)
+[![Projects](https://img.shields.io/badge/View-Projects-111111?style=for-the-badge&logo=github&logoColor=white)](https://napatdev.com/projects)
+[![About](https://img.shields.io/badge/About-Me-111111?style=for-the-badge&logo=readme&logoColor=white)](https://napatdev.com/about)
+[![Notes](https://img.shields.io/badge/Developer-Notes-111111?style=for-the-badge&logo=markdown&logoColor=white)](https://napatdev.com/notes)
 
-`Bangkok, Thailand` · `Build` · `Test` · `Improve`
+`Bangkok, Thailand`
 
 </div>
 
@@ -18,125 +20,98 @@
 
 ## About Me
 
-I am **Napat Pamornsut**, a web developer and software tester based in Bangkok, Thailand. I design, build, and test production-oriented web applications with an emphasis on **reliability, maintainability, security, and measurable software quality**.
+I have experience as a **Web Developer and Software Tester**, with a strong focus on quality, validation, and practical usage. I approach development with a testing mindset to ensure reliable and maintainable systems.
 
-My work spans full-stack development, API and database design, automated testing, CI/CD, and deployment. I prefer engineering decisions that can be explained, tested, and maintained.
+```ts
+const profile = {
+  name: "Napat Pamornsut",
+  role: "Web Developer",
+  location: "Bangkok, Thailand",
+  strengths: [
+    "reliable web apps",
+    "quality-focused testing",
+    "practical solutions"
+  ],
+  approach: "build, test, improve"
+};
+```
 
-> Production and commercial source code is primarily maintained in private repositories. Public GitHub activity, project case studies, and technical writing provide a curated view of my engineering work.
+## Technical Expertise
 
-## Engineering Stack
+### Technologies for building and testing reliable software
+
+Full-stack development, databases, automated testing, and delivery tooling used across real projects.
 
 <div align="center">
 
-### Frontend
+**Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Backend & Data
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-005571?style=flat-square)
 
-### Quality & Delivery
+**Testing & Tools**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
-## Featured Engineering Work
+## Selected Work
 
 ### Shop Inventory & Sales Management System
 
-**Enterprise ERP / POS · Multi-tenant Architecture**
+**Fullstack Developer · 199 tests · Next.js 14 · Multi-tenant**
 
-A production-oriented Enterprise Resource Planning and Point of Sale system designed for multi-tenant environments.
+An Enterprise Resource Planning (ERP) and POS system designed for multi-tenant environments. Developed with Next.js 14 and TypeScript. Features include Role-Based Access Control (RBAC), real-time stock management, and automated financial records.
 
-| Engineering Area | Implementation |
-| --- | --- |
-| Application | Next.js 14 · TypeScript |
-| Data Layer | Prisma ORM · PostgreSQL |
-| Access Control | Role-Based Access Control (RBAC) |
-| Inventory | Real-time stock management |
-| Finance | Automated financial records |
-| Architecture | Hybrid Domain-Driven Design |
-| Quality | 199 automated unit tests |
+The system uses a **Hybrid Domain-Driven Design (DDD)** architecture and includes **199 unit tests** to ensure system stability.
 
-**[Explore Software Engineering Projects →](https://napatdev.com/projects)**
+`Next.js 14` · `TypeScript` · `Prisma ORM` · `PostgreSQL` · `Vitest`
 
-## How I Work
+- Service Layer refactoring into modular subdomains
+- Pure functions for calculation engines to facilitate testing
 
-```text
-Requirements
-    ↓
-Architecture & Data Design
-    ↓
-Implementation
-    ↓
-Automated + Manual Testing
-    ↓
-Review & Hardening
-    ↓
-Deployment
-    ↓
-Measure · Learn · Improve
-```
+**[View Projects →](https://napatdev.com/projects)**
 
-I treat testing as part of engineering rather than a final checkpoint. The objective is software that behaves predictably, remains understandable as it grows, and can be changed with confidence.
+## More Projects
 
-## Private Development Activity
+My work covers **web development, system design, IoT, and software testing**.
 
-A significant portion of my active development is intentionally private.
+- **JodBill — Smart Expense Tracker** — Personal finance PWA with AI-powered receipt scanning and financial analysis.
+- **Clean Water Monitoring** — Real-time water quality monitoring with React, Node.js, Firebase, MQTT, and IoT sensors.
+- **Automated Testing for Clean Water Monitoring** — API, Admin UI, and E2E testing with Playwright and GitHub Actions.
+- **UAT / Test Case & Bug Report Template** — Test case design and bug reporting used to improve communication between development, testing, and business teams.
 
-```text
-Private Production Repositories
-        │
-        ├── Product Development
-        ├── Architecture & Refactoring
-        ├── Pull Request Workflow
-        ├── Automated Testing
-        ├── CI/CD
-        └── Technical Documentation
-        │
-        ▼
-GitHub Contribution Activity
-```
-
-GitHub displays the contribution activity while proprietary source code and implementation details remain private.
-
-## Technical Writing
-
-I publish developer notes covering software engineering, testing, architecture, implementation decisions, and lessons learned while building real systems.
-
-**[Read Developer Notes & Technical Writing →](https://napatdev.com/notes)**
+**[See all projects and case studies →](https://napatdev.com/projects)**
 
 ---
 
 <div align="center">
 
-### Napat Pamornsut
+### Build · Test · Improve
 
-**Web Developer · Software Tester · Bangkok, Thailand**
+**[napatdev.com](https://napatdev.com)**
 
-[**Napat Pamornsut — Web Developer Portfolio**](https://napatdev.com) ·
-[**Software Engineering Projects**](https://napatdev.com/projects) ·
-[**Developer Notes**](https://napatdev.com/notes)
-
-<br>
-
-<sub>Build · Test · Improve</sub>
+[About Me](https://napatdev.com/about) · [Projects](https://napatdev.com/projects) · [Developer Notes](https://napatdev.com/notes)
 
 </div>
